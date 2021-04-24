@@ -1,0 +1,21 @@
+PackageIdentifier: 
+PackageName: 
+Moniker: 
+PackageVersion: 
+Publisher: 
+Author: 
+License: (c) 2021 
+LicenseUrl: 
+ShortDescription: 
+PackageUrl: 
+Installers:
+- Architecture: 
+  InstallerUrl: 
+  InstallerSha256: 
+  InstallerType: 
+  InstallerSwitches:
+    Silent: 
+    SilentWithProgress: 
+PackageLocale: en-US
+ManifestType: singleton
+ManifestVersion: 1.0.0
