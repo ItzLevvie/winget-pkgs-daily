@@ -1,7 +1,7 @@
 PackageIdentifier: Zoom.Zoom
 PackageName: Zoom
 Moniker: zoom
-PackageVersion: 5.6.3
+PackageVersion: 5.6.4
 Publisher: Zoom Video Communications, Inc.
 Author: Zoom Video Communications, Inc.
 License: (c) 2021 Zoom Video Communications, Inc.
@@ -10,8 +10,8 @@ ShortDescription: Enterprise video conferencing with real-time messaging and con
 PackageUrl: https://zoom.us/meetings
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://cdn.zoom.us/prod/5.6.3.751/ZoomInstallerFull.msi
-  InstallerSha256: c711ad0a28440b11cd6873bcde5407cf30a8e4b9be07231feeaa492ef5e578d3
+  InstallerUrl: https://cdn.zoom.us/prod/5.6.4.799/ZoomInstallerFull.msi
+  InstallerSha256: 43b291f0f7a96e917f3976e757c8fa28b954e29eea9e4400b03e6d5a069f10dd
   InstallerType: msi
 PackageLocale: en-US
 ManifestType: singleton
