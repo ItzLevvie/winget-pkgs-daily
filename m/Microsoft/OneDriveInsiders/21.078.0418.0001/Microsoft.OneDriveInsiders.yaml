@@ -1,7 +1,7 @@
 PackageIdentifier: Microsoft.OneDriveInsiders
 PackageName: Microsoft OneDrive Insiders
 Moniker: onedrive-insiders
-PackageVersion: 21.073.0411.0002
+PackageVersion: 21.078.0418.0001
 Publisher: Microsoft Corporation
 Author: Microsoft Corporation
 License: (c) 2021 Microsoft Corporation
@@ -10,8 +10,8 @@ ShortDescription: Save your files and photos to OneDrive and access them from an
 PackageUrl: https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://oneclient.sfx.ms/Win/Insiders/21.073.0411.0002/OneDriveSetup.exe
-  InstallerSha256: 1f45a8fa46a576c08ca826395fcddd2b0f0d60e2d3e9c637596181665f5e4984
+  InstallerUrl: https://oneclient.sfx.ms/Win/Insiders/21.078.0418.0001/OneDriveSetup.exe
+  InstallerSha256: 9e5612e34eb5ef610808863fcaf284f925887193ff114a2120f4b71b438d57d9
   InstallerType: exe
   InstallerSwitches:
     Silent: /silent
