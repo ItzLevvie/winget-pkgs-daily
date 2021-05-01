@@ -1,7 +1,7 @@
 PackageIdentifier: Microsoft.OneDrive
 PackageName: Microsoft OneDrive
 Moniker: onedrive
-PackageVersion: 21.062.0328.0001
+PackageVersion: 21.073.0411.0002
 Publisher: Microsoft Corporation
 Author: Microsoft Corporation
 License: (c) 2021 Microsoft Corporation
@@ -10,8 +10,8 @@ ShortDescription: Save your files and photos to OneDrive and access them from an
 PackageUrl: https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://oneclient.sfx.ms/Win/Prod/21.062.0328.0001/OneDriveSetup.exe
-  InstallerSha256: 4d606bae00cf869861c9b96b1adadac8bf6a017968d2cfd147042ed97eaac01d
+  InstallerUrl: https://oneclient.sfx.ms/Win/Prod/21.073.0411.0002/OneDriveSetup.exe
+  InstallerSha256: 1f45a8fa46a576c08ca826395fcddd2b0f0d60e2d3e9c637596181665f5e4984
   InstallerType: exe
   InstallerSwitches:
     Silent: /silent
