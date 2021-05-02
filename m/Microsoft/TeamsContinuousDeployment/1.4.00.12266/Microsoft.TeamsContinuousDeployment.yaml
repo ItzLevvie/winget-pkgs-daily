@@ -1,7 +1,7 @@
 PackageIdentifier: Microsoft.TeamsContinuousDeployment
 PackageName: Microsoft Teams Continuous Deployment
 Moniker: teams-continuous-deployment
-PackageVersion: 1.4.00.12169
+PackageVersion: 1.4.00.12266
 Publisher: Microsoft Corporation
 Author: Microsoft Corporation
 License: (c) 2021 Microsoft Corporation
@@ -10,8 +10,8 @@ ShortDescription: Meet, chat, call, and collaborate in just one place.
 PackageUrl: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
 Installers:
 - Architecture: x64
-  InstallerUrl: https://statics.teams.cdn.office.net/production-windows-x64/1.4.00.12169/Teams_windows_x64.exe
-  InstallerSha256: b87464070c47f1f529f46c0457dd21b04fdda8c4fb78e4d048f4f381b7c27d2f
+  InstallerUrl: https://statics.teams.cdn.office.net/production-windows-x64/1.4.00.12266/Teams_windows_x64.exe
+  InstallerSha256: c8fca725cb7bc354388bce9ebe514d04d29188e4f4747e720351eb18dfdfa53d
   InstallerType: exe
   InstallerSwitches:
     Silent: /s
