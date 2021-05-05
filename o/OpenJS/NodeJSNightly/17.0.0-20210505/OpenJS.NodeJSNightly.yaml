@@ -1,7 +1,7 @@
 PackageIdentifier: OpenJS.NodeJSNightly
 PackageName: Node.js Nightly
 Moniker: nodejs-nightly
-PackageVersion: 17.0.0-20210504
+PackageVersion: 17.0.0-20210505
 Publisher: OpenJS Foundation
 Author: OpenJS Foundation
 License: (c) 2021 OpenJS Foundation
@@ -10,8 +10,8 @@ ShortDescription: Node.js® is a JavaScript runtime built on Chrome's V8 JavaScr
 PackageUrl: https://nodejs.org/en/
 Installers:
 - Architecture: x64
-  InstallerUrl: https://nodejs.org/download/nightly/v17.0.0-nightly2021050418e4f405b1/node-v17.0.0-nightly2021050418e4f405b1-x64.msi
-  InstallerSha256: 3434380437037d02c2f7eb119233101a76415660098ad213a3f0d22626d21c31
+  InstallerUrl: https://nodejs.org/download/nightly/v17.0.0-nightly20210505efd70f4361/node-v17.0.0-nightly20210505efd70f4361-x64.msi
+  InstallerSha256: a20cb96c8aa705d58b7774508ff89cf6f784005b1e27ac3ebb08fde3dc7a76f3
   InstallerType: msi
 PackageLocale: en-US
 ManifestType: singleton

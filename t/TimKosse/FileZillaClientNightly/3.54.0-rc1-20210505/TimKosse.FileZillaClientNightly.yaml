@@ -1,7 +1,7 @@
 PackageIdentifier: TimKosse.FileZillaClientNightly
 PackageName: FileZilla Client Nightly
 Moniker: filezilla-nightly
-PackageVersion: 3.53.1-20210504
+PackageVersion: 3.54.0-rc1-20210505
 Publisher: Tim Kosse
 Author: Tim Kosse
 License: (c) 2021 Tim Kosse
@@ -10,8 +10,8 @@ ShortDescription: FileZilla Client is a fast and reliable cross-platform FTP, FT
 PackageUrl: https://filezilla-project.org/
 Installers:
 - Architecture: x64
-  InstallerUrl: https://filezilla-project.org/nightlies/2021-05-04/win64/FileZilla_3_setup.exe
-  InstallerSha256: d0fdb5a203232acb4e253c07ed57a00b59c90aabc47bd8c3e28448e464634b8d
+  InstallerUrl: https://filezilla-project.org/nightlies/2021-05-05/win64/FileZilla_3_setup.exe
+  InstallerSha256: ff23a552e4247a5fc4dccbbb8c8ed604622563f2cd2744580411c6487fbe9baf
   InstallerType: nullsoft
 PackageLocale: en-US
 ManifestType: singleton

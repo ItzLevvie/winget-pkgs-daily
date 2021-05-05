@@ -1,7 +1,7 @@
 PackageIdentifier: VideoLAN.VLC
 PackageName: VLC media player
 Moniker: vlc
-PackageVersion: 3.0.13
+PackageVersion: 3.0.12
 Publisher: VideoLAN
 Author: VideoLAN
 License: (c) 2021 VideoLAN
@@ -10,8 +10,8 @@ ShortDescription: VLC is a free and open source cross-platform multimedia player
 PackageUrl: https://www.videolan.org/vlc/
 Installers:
 - Architecture: x64
-  InstallerUrl: https://download.videolan.org/vlc/3.0.13/win64/vlc-3.0.13-win64.msi
-  InstallerSha256: 1ae357a64b96dc39b08437249f7d2d9812b557d9cdc6d4c4036f3f4aa89042fb
+  InstallerUrl: https://download.videolan.org/vlc/3.0.12/win64/vlc-3.0.12-win64.msi
+  InstallerSha256: c4a82416c9066501d0d9998d5085b7880211d8374ff60967732ba84a76e7284a
   InstallerType: msi
 PackageLocale: en-US
 ManifestType: singleton

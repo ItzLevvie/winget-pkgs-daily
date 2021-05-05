@@ -1,7 +1,7 @@
 PackageIdentifier: Discord.DiscordCanary
 PackageName: Discord Canary
 Moniker: discord-canary
-PackageVersion: 1.0.28
+PackageVersion: 1.0.30
 Publisher: Discord Inc.
 Author: Discord Inc.
 License: (c) 2021 Discord Inc.
@@ -10,8 +10,8 @@ ShortDescription: Whether you’re part of a school club, gaming group, worldwid
 PackageUrl: https://discord.com/
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://dl-canary.discordapp.net/distro/app/canary/win/x86/1.0.28/DiscordCanarySetup.exe
-  InstallerSha256: 2114c8beb36ee877f727ab43b22a96d1661151f84f6f7da219b188545848f52d
+  InstallerUrl: https://dl-canary.discordapp.net/distro/app/canary/win/x86/1.0.30/DiscordCanarySetup.exe
+  InstallerSha256: 137f03f719c4e1cf50d4dea2998b7e0f0c7bfacab176188ebbb749e80cec0c94
   InstallerType: exe
   InstallerSwitches:
     Silent: /s
