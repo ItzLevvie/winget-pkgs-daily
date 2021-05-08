@@ -1,7 +1,7 @@
 PackageIdentifier: Microsoft.OneDriveInternalSlow
 PackageName: Microsoft OneDrive Internal Slow
 Moniker: onedrive-internal-slow
-PackageVersion: 21.083.0425.0001
+PackageVersion: 21.088.0502.0001
 Publisher: Microsoft Corporation
 Author: Microsoft Corporation
 License: (c) 2021 Microsoft Corporation
@@ -10,8 +10,8 @@ ShortDescription: Save your files and photos to OneDrive and access them from an
 PackageUrl: https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://oneclient.sfx.ms/Win/MsitSlow/21.083.0425.0001/OneDriveSetup.exe
-  InstallerSha256: 7aaeced1ca6be691de6d41e7ba30ffa9f09c9f8c4b099f1a267ba57cdea8b7b4
+  InstallerUrl: https://oneclient.sfx.ms/Win/MsitSlow/21.088.0502.0001/OneDriveSetup.exe
+  InstallerSha256: f8ff3fafe8dcdaf326fc6aa452ade0cecb0354c564163286d39a5b280c9f09b2
   InstallerType: exe
   InstallerSwitches:
     Silent: /silent
