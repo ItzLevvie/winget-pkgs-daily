@@ -1,7 +1,7 @@
 PackageIdentifier: Microsoft.OneDriveInternalFast
 PackageName: Microsoft OneDrive Internal Fast
 Moniker: onedrive-internal-fast
-PackageVersion: 21.089.0503.0001
+PackageVersion: 21.093.0509.0001
 Publisher: Microsoft Corporation
 Author: Microsoft Corporation
 License: (c) 2021 Microsoft Corporation
@@ -10,8 +10,8 @@ ShortDescription: Save your files and photos to OneDrive and access them from an
 PackageUrl: https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage
 Installers:
 - Architecture: neutral
-  InstallerUrl: https://oneclient.sfx.ms/Win/MsitFast/21.089.0503.0001/OneDriveSetup.exe
-  InstallerSha256: 2c62af08815304fe4ba6c3a7c77989da0fef49845acc2f04dc5950156589e069
+  InstallerUrl: https://oneclient.sfx.ms/Win/MsitFast/21.093.0509.0001/OneDriveSetup.exe
+  InstallerSha256: 11bdee117238bc9d23ca75de9bfa47e293bf74d232e7a22868e1fb66dbfda182
   InstallerType: exe
   InstallerSwitches:
     Silent: /silent
