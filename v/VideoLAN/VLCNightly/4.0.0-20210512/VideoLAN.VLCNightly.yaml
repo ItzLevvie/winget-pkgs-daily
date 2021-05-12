@@ -1,7 +1,7 @@
 PackageIdentifier: VideoLAN.VLCNightly
 PackageName: VLC media player nightly
 Moniker: vlc-nightly
-PackageVersion: 4.0.0-20210511
+PackageVersion: 4.0.0-20210512
 Publisher: VideoLAN
 Author: VideoLAN
 License: (c) 2021 VideoLAN
@@ -10,8 +10,8 @@ ShortDescription: VLC is a free and open source cross-platform multimedia player
 PackageUrl: https://www.videolan.org/vlc/
 Installers:
 - Architecture: x64
-  InstallerUrl: https://artifacts.videolan.org/vlc/nightly-win64/20210511-0422/vlc-4.0.0-dev-win64-ae406f9e.msi
-  InstallerSha256: 337164630dc10d941d428ee6bf44958d2bd4c24f0978c66335a7cee89629c76f
+  InstallerUrl: https://artifacts.videolan.org/vlc/nightly-win64/20210512-0425/vlc-4.0.0-dev-win64-88388b6f.msi
+  InstallerSha256: 33eb0ced5fa9ccb5af187d3e6235a2831f8998faec351fe13468a8221c640970
   InstallerType: msi
 PackageLocale: en-US
 ManifestType: singleton
